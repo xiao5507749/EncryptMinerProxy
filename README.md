@@ -1,4 +1,4 @@
-<h2 align="center">蜜罐加密代理-平头哥</h2>
+<h2 align="center">E连加密代理-平头哥</h2>
 <h4 align="center">市面上第一款也是唯一一款加密代理抽水软件</h4>
 
 <p align="center">
@@ -10,12 +10,6 @@
   </a>
 </p>
 
-
-## 平头哥Logo
-<h1 align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/ryu0007/EncryptMinerProxy/main/images/%E8%9C%9C%E7%BD%90.jpg" width="350"/>
-</h1>
 
 ## 视频教程
 [简介](http://f2poolbackup.xyz/index.php/2022/03/13/%e8%9c%9c%e7%bd%90%e4%bb%a3%e7%90%86%e4%b8%ad%e8%bd%ac%e4%bb%8b%e7%bb%8d/)
@@ -41,7 +35,7 @@
 </h1>
 知道原理了，那么可以针对该原理，使用自定义加密的算法，并且对数据进行混淆操作，甚至模拟访问正常网页访问，尽可能抹去特征，这样运营商就无法识别。
 
-## 蜜罐平头哥部署模式
+## 部署模式
 ### 部署方案1-同普通代理方案
 
 <h1 align="center">
@@ -72,28 +66,28 @@
 
 
 ## 加解密报文
-### 蜜罐平头哥客户端加密混淆
+### 客户端加密混淆
 
 <h1 align="center">
   <br>
   <img src="https://raw.githubusercontent.com/ryu0007/EncryptMinerProxy/main/images/%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8A%A0%E5%AF%86%E6%95%B0%E6%8D%AE.jpg" width="800"/>
 </h1>
 
-### 蜜罐平头哥服务端解密转发
+### 服务端解密转发
 
 <h1 align="center">
   <br>
   <img src="https://raw.githubusercontent.com/ryu0007/EncryptMinerProxy/main/images/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E8%A7%A3%E5%AF%86%E6%95%B0%E6%8D%AE.jpg" width="800"/>
 </h1>
 
-### 蜜罐平头哥WEB界面-客户端
+### WEB界面-客户端
 
 <h1 align="center">
   <br>
   <img src="https://raw.githubusercontent.com/ryu0007/EncryptMinerProxy/main/images/Web%E7%95%8C%E9%9D%A2-%E5%AE%A2%E6%88%B7%E7%AB%AF.jpg" width="800"/>
 </h1>
 
-### 蜜罐平头哥WEB界面-服务端
+### WEB界面-服务端
 
 <h1 align="center">
   <br>
