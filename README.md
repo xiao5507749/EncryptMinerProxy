@@ -1,4 +1,4 @@
-<h2 align="center">E连加密代理-平头哥</h2>
+<h2 align="center">E连加密代理</h2>
 <h4 align="center">市面上第一款也是唯一一款加密代理抽水软件</h4>
 
 <p align="center">
